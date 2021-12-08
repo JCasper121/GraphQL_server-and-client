@@ -1,0 +1,11 @@
+{
+  "name": "graphql_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "./ server npm run start"
+  },
+  "author": "",
+  "license": "ISC"
+}

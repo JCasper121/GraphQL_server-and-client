@@ -1,0 +1,14 @@
+.container .nav-wrapper {
+    width: 100%;
+    display: flex;
+}
+
+.container .main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.framework-img {
+    max-width: 200px;
+    height: auto;
+}
